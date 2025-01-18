@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 吳健雄
+title: welkom op mijn website
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: leon
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Leon
+last_name: Duynisveld
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎼
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Gemeente Westland
+    url: https://www.gemeentewestland.nl
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -54,6 +54,6 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
+Leon is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
