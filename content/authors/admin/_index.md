@@ -21,8 +21,8 @@ role: designer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Gemeente Westland
-    url: https://www.gemeentewestland.nl
+  - name: nonprofit website
+    url: https://duynis.nl
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
